@@ -1,12 +1,15 @@
-# 📌 READ THIS FIRST
-
+📌 READ THIS FIRST
 You have been handed a project in progress. Before doing anything else, read:
+→ PROJECT_MEMORY — full context, decisions made, user preferences, pending tasks.
+→ SNAPSHOT_LOG — chronological history of every session, every model, every change.
 
-→ **`PROJECT_MEMORY.md`** — full context of this project, what has been built, decisions made, user preferences, and what to do next.
+This folder contains the "Idiot's Guide to Building a Fully Automated Software Company" — an interactive HTML helpbook being built with user Onur (İzmir, Turkey).
 
-This folder is the working directory for the **"Idiot's Guide to Building a Fully Automated Software Company"** — a step-by-step HTML helpbook being built with the user Onur.
+On First Open
+After reading both documents:
+- Greet Onur by name
+- Summarize the project state in 2–3 sentences
+- State the guide's current version and which model last worked on it
+- Ask how he'd like to continue
 
-The main deliverable lives at:
-- **`build_guide.html`** — the HTML helpbook (also saved to ~/Projects/Claude/BuildAgenticCompany/)
-
-After reading PROJECT_MEMORY.md, greet the user, confirm you've read the context, and ask how they'd like to continue.
+Do not start working without confirming you have context. Do not ask Onur to re-explain anything already in PROJECT_MEMORY.
